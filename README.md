@@ -6,6 +6,9 @@
 
 ![home page](./images/chatterspace.jpg)
 
+![FileStructure](./images/filestruct.jpg)
+![DBCollections](./images/dbcollections.jpg)
+
 ## Installation Guide
 
 ### Requirements
